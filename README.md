@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## **Contact**
 
-For any inquiries or issues related to this project, please feel free to reach out via [your-email@example.com](beingamann27.com).
+For any inquiries or issues related to this project, please feel free to reach out via (beingamann27.com).
 
 ---
 
